@@ -1,3 +1,16 @@
+live demo : https://skdbmojave.netlify.com/
+
+git clone https://github.com/Kashif1Naqvi/skdbmojave.git
+
+cd skdbmojave 
+npm install
+npm start
+
+then write in browser http://localhost:3000
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
